@@ -10,6 +10,8 @@
 [![codecov](https://codecov.io/gh/CoAdaptree/poolseq_pipeline/branch/master/graph/badge.svg)](https://codecov.io/gh/CoAdaptree/poolseq_pipeline)
 
 ---
+NOTE: THIS REPO IS DEPRECATED WITHIN REPADAPT. PLEASE USE STANDARD VARIANT CALLING PIPELINE FOR POOLSEQ
+
 
 ### Usage    
 
